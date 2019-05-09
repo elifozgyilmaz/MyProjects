@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 21" name="UROLOJIDB">
+  <DataContextMoniker Name="/UROLOJIDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="63fbe81f-f6c0-4776-9a45-82f1175854b9" absoluteBounds="3.5, 4.875, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblTakipVerileri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25d3451a-ad13-460b-bd60-49548619ce3d" absoluteBounds="3.515, 5.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9657ada0-d613-4a43-8f65-ae3b4918aea8" absoluteBounds="3.5, 16.5, 2, 4.2708154296875023">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblPosOperatifOzellikler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c6ab83d-d667-4dd8-bbde-f4e0c7ca4046" absoluteBounds="3.515, 16.96, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4cab1d59-9ca7-4f4b-9018-18f3cd28aa05" absoluteBounds="3.5, 1.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblPatolojikVeriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea1b1ed0-aaa5-4641-ad79-596a6dde29d0" absoluteBounds="3.515, 2.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5cbe0751-0776-4665-9fb0-7cac8a03acdd" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblOpTuru" />
+      <nestedChildShapes>
+        <elementListCompartment Id="68fb9272-152c-4be9-92a6-00181b81dede" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06408ea4-0d58-4701-9955-0da1bdd65fec" absoluteBounds="3.5, 8.125, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblOperatifOzellikler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9ebe6a6-193f-4940-9ddf-ea7da8fe4848" absoluteBounds="3.515, 8.585, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5633411-2ef3-4635-87c4-8643b4910869" absoluteBounds="6.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblKoMorbidite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e1063e2-6301-438b-b5ea-930f001d76ba" absoluteBounds="6.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d76a5df-7e60-49b6-8646-edbbb45811a5" absoluteBounds="6.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblDR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb30fbe9-5fd3-45bb-b7a7-aa34b067ce17" absoluteBounds="6.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9fef425f-522e-479e-89ab-b9963533560d" absoluteBounds="0.75, 10, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f79e7429-8e78-4149-8484-aea1ea976d22" absoluteBounds="0.765, 10.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="04818cad-59ba-4a68-9edc-0de1043c5cec" absoluteBounds="3.5, 12.25, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/UROLOJIDBDataContext/tblDemografikOzellikler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1a49932-8759-4cdf-8f31-4813bff36afa" absoluteBounds="3.515, 12.71, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 10); (1.75 : 6.14505126953125); (2.19791916666667 : 6.14505126953125 : JumpStart); (2.36458583333333 : 6.14505126953125 : JumpEnd); (3.5 : 6.14505126953125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri/tblHastaBilgileri_tblTakipVerileri" />
+      <nodes>
+        <classShapeMoniker Id="9fef425f-522e-479e-89ab-b9963533560d" />
+        <classShapeMoniker Id="63fbe81f-f6c0-4776-9a45-82f1175854b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 12.5401025390625); (1.75 : 18.6354077148438); (3.5 : 18.6354077148438)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri/tblHastaBilgileri_tblPosOperatifOzellikler" />
+      <nodes>
+        <classShapeMoniker Id="9fef425f-522e-479e-89ab-b9963533560d" />
+        <classShapeMoniker Id="9657ada0-d613-4a43-8f65-ae3b4918aea8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 10); (2.2812525 : 2.92390055338542); (3.5 : 2.92390055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri/tblHastaBilgileri_tblPatolojikVeriler" />
+      <nodes>
+        <classShapeMoniker Id="9fef425f-522e-479e-89ab-b9963533560d" />
+        <classShapeMoniker Id="4cab1d59-9ca7-4f4b-9018-18f3cd28aa05" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.7171541341146); (3.5 : 10.7171541341146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri/tblHastaBilgileri_tblOperatifOzellikler" />
+      <nodes>
+        <classShapeMoniker Id="9fef425f-522e-479e-89ab-b9963533560d" />
+        <classShapeMoniker Id="06408ea4-0d58-4701-9955-0da1bdd65fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 12.5401025390625); (2.2812525 : 14.1771086197917); (3.5 : 14.1771086197917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UROLOJIDBDataContext/tblHastaBilgileri/tblHastaBilgileri_tblDemografikOzellikler" />
+      <nodes>
+        <classShapeMoniker Id="9fef425f-522e-479e-89ab-b9963533560d" />
+        <classShapeMoniker Id="04818cad-59ba-4a68-9edc-0de1043c5cec" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

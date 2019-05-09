@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace CourseApp304.Models
+{
+    public class Student
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+        //Bire bir bağlantı
+        public StudentAddress Address { get; set; }
+        public IEnumerable<StudentCourse> StudentCourses { get; set; }
+
+    }
+}
